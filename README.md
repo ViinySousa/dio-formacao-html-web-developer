@@ -2,7 +2,7 @@
 Este repositório contém os desafios e exercícios desenvolvidos durante a formação HTML Web Developer da DIO.
 
 🚀 Sobre o projeto
-Nesse primeiro desafio, foi criado um web site utilizando apenas HTML básico, com o objetivo de praticar a estrutura de páginas web e o uso de algumas tags.
+* Nesse primeiro desafio, foi criado um web site utilizando apenas HTML básico, com o objetivo de praticar a estrutura de páginas web e o uso de algumas tags.
 
 📚 Conteúdos abordados
 * História dos computadores
